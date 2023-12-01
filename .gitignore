@@ -1,2 +1,2 @@
 /virt
-/pycache
+__pycache__/*
